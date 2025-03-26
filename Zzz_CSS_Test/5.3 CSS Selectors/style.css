@@ -20,3 +20,7 @@ p {
 .note[value="4"]{
   color:blue;
 }
+
+* {
+  text-align: center;
+}
