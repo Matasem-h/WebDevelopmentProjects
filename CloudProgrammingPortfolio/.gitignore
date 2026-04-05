@@ -1,9 +1,9 @@
 # Terraform plugin downloads
-.terraform
+.terraform/
 
-# Terraform state file (contains sensitive info)
-.tfstate
-.tfstate.backup
+# Terraform state files
+*.tfstate
+*.tfstate.backup
 
-# Terraform lock file (optional but recommended to keep)
+# Terraform lock file
 # .terraform.lock.hcl
